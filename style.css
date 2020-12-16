@@ -49,6 +49,7 @@ body {
 
 .timer {
     font-size: 14px;
+    flex: 0.20
 }
 
 .timer p {
@@ -77,10 +78,6 @@ body {
 }
 
 .footer {
-    position: sticky;
-    bottom: 0;
-    left: 0;
-    right: 0;
     padding: 22px;
     height: 75px;
     background-image: url(./images/pattern-hills.svg);
